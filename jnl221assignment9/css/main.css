@@ -1,0 +1,99 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+.site-banner{
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 8px;
+
+}
+
+.logo{
+    width: 188px;
+}
+
+.article{
+    max-width: 1200px;
+    margin-left: 140px;
+    margin-right: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+
+.story-header{
+    font-family: 'Franklin Light';
+  src: url('ITC_Franklin-Light.woff2') format('woff2');
+
+}
+
+h1{font-family: 'Postoni';
+    src: url('PostoniWide-Bold.woff2') format('woff2');
+    font-size: 46px;
+    margin-bottom: 0px;
+    font-weight: normal;
+}
+
+.news-section{
+    font-family: 'Franklin Bold';
+  src: url('ITC_Franklin-Bold.woff2') format('woff2');
+  font-size: 14px;
+  margin-top: 32px;
+  
+
+}
+
+.deck{
+    font-size: 20px;
+
+}
+
+.byline{
+    font-size: 16px;
+    margin-bottom: 2px;
+
+}
+
+.publish-date{
+    font-size: 14px;
+    margin-top: 0px;
+    color: #666666;
+
+}
+
+.story-body{
+    font: Georgia;
+    font-size: 20px;
+    line-height: 32px;
+    max-width: 700px;
+
+}
+
+img{
+    width: 100%;
+}
+
+.photo{
+
+}
+
+.photo-caption{
+
+}
+
+.story-footer{
+
+}
+
+.footer-info{
+
+}
