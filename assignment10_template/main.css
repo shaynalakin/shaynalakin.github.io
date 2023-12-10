@@ -1,5 +1,6 @@
 body {
   margin: 10px;
+  background-color: #e6eff2;
 }
 
 nav {
@@ -7,6 +8,7 @@ nav {
   border-bottom: 1px solid #173f80;
   padding: 20px;
   text-align: center;
+  background-color: #e6eff2;
 }
 
 .logo {
@@ -32,13 +34,15 @@ header {
 h1 {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 46px;
-  color: #173f80
+  color: #173f80;
+  text-align: center;
 }
 
 h2{
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 25px;
-  color:#173f80
+  color:#173f80;
+
 }
 
 p{
@@ -49,6 +53,7 @@ p{
 
 .byline {
   font-weight: bold;
+  color:#173f80;
 }
 
 .tdpad {
@@ -92,9 +97,14 @@ a:hover {
 .card {
   margin-bottom: 15px;
   max-width: 550px;
+  align-items: center;
 }
 
 
 .navbar-brand {
-  color: #173f80
+  color: #173f80;
+}
+
+.subhead{
+  text-align: center;
 }
